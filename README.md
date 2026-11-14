@@ -1,104 +1,55 @@
-# GIA SƯ TRỢ LÝ AI LỚP 6 - HỌC TẬP THÔNG MINH 🦉🚀
+# 🎓 Gia Sư AI Đa Năng - Lộ Trình Toàn Năm & Tối Ưu Tư Duy (GDPT 2018)
 
-> **Nền tảng Single Page Application (SPA) Tự Học Tương Tác Hiện Đại Dành Riêng Cho Học Sinh Lớp 6**
-> Bám sát chuẩn 3 bộ Sách Giáo Khoa hiện hành của Bộ Giáo dục & Đào tạo: **Kết nối tri thức với cuộc sống**, **Cánh diều**, **Chân trời sáng tạo**.
-
----
-
-## 🌟 TỔNG QUAN DỰ ÁN
-
-**"Gia Sư Trợ Lý AI Lớp 6"** được thiết kế chuyên biệt cho lứa tuổi 11 - 12 tuổi (bước chuyển tiếp quan trọng từ Tiểu học lên Trung học cơ sở). Ứng dụng kết hợp giữa phương pháp học tập chủ động (Active Recall, Spaced Repetition, Gamification) và Trí Tuệ Nhân Tạo đồng hành 24/7 để biến việc học trở nên hào hứng, sinh động và đầy cảm hứng.
+> **Web App Giáo dục Thông minh dành cho học sinh Lớp 6 (Tự động nâng cấp lên Lớp 7, 8, 9)**  
+> Ứng dụng tích hợp Trí tuệ nhân tạo (Gemini AI), Sơ đồ Cây Lộ Trình chuẩn GDPT 2018 cho đầy đủ 7 môn học, Phòng luyện tập Socratic đa phương tiện (Loa TTS & Micro STT), Sổ tay Hồ sơ tư duy AI và Phòng kiểm tra lấp lỗ hổng cuối tuần.
 
 ---
 
-## 💎 CÁC MÔ ĐUN VÀ TÍNH NĂNG NỔI BẬT
-
-### 1. Kho 7 Môn Học Lớp 6 Toàn Diện
-Danh mục các môn học lớp 6 với màu sắc gradient và biểu tượng trực quan:
-- 📐 **Toán học:** Số học (Tập hợp số nguyên $\mathbb{Z}$, phép tính, nhiệt độ, độ cao), Hình học trực quan (Tính đối xứng, tâm và trục đối xứng trong tự nhiên), Thống kê & xác suất.
-- ✍️ **Ngữ văn:** Truyện truyền thuyết (Thánh Gióng, Sơn Tinh Thủy Tinh, Bánh chưng bánh giầy), chi tiết kì ảo, thực hành Tiếng Việt (So sánh, nhân hóa, từ ghép đẳng lập), viết đoạn văn cảm nghĩ.
-- 🔬 **Khoa học tự nhiên:** Các thể của chất (Rắn, Lỏng, Khí, sự ngưng tụ, đông đặc, bay hơi), Tế bào - đơn vị cơ sở của sự sống, Lực & Năng lượng.
-- 🌍 **Lịch sử & Địa lí:** Nguồn gốc loài người, các nền văn minh cổ đại sông Nin, Trái Đất trong Hệ Mặt Trời, chuyển động tự quay sinh ra ngày - đêm.
-- 🗣️ **Tiếng Anh (English 6):** Unit 1: My New School, Unit 2: My House, thì Hiện tại đơn (Present Simple Tense), phát âm đuôi `-s/es`, phân biệt *play/do/have*.
-- 💻 **Tin học:** Thông tin & dữ liệu (bit, byte, KB, MB, GB), an toàn thông tin trên mạng Internet, thuật toán và sơ đồ khối (Flowchart).
-- 💖 **Giáo dục công dân:** Yêu thương con người (*"Lá lành đùm lá rách"*), siêng năng kiên trì, lối sống tiết kiệm và quản lý chi tiêu học sinh.
-
-### 2. Không Gian Học Tập Tương Tác 3 Tab Đột Phá
-- **Trạm Kiến Thức Cốt Lõi:**
-  * Thẻ ghi nhớ thông minh (Flashcard 3D): Nhấp vào để lật mặt thẻ xem bí kíp ghi nhớ.
-  * Tóm tắt chuẩn SGK mới dạng gạch đầu dòng cô đọng, dễ nhớ.
-  * Góc *"Ứng Dụng Đời Sống Kỳ Diệu"*: Giúp học sinh trả lời câu hỏi *"Học cái này để làm gì ngoài đời?"*.
-- **Luyện Tập Trắc Nghiệm Thông Minh:**
-  * Bộ câu hỏi 4 lựa chọn (A, B, C, D) khách quan, phân loại chuẩn nhận biết - thông hiểu - vận dụng.
-  * Kiểm tra và phản hồi kết quả ngay lập tức khi học sinh chọn.
-  * Lời giải thích chuẩn SGK chi tiết, phân tích rõ vì sao đáp án đúng và vì sao các đáp án khác chưa chính xác.
-  * Nút "Nhờ Cú giảng kỹ hơn câu này" để trợ lý AI phân tích sâu hơn.
-  * Âm thanh phản hồi tích cực (Web Audio API Synthesizer) và hiệu ứng pháo hoa Confetti rực rỡ khi hoàn thành xuất sắc.
-- **Thử Thách Mở Rộng & Vận Dụng Sáng Tạo:**
-  * Câu hỏi gợi mở tư duy phản biện, khuyến khích học sinh viết câu trả lời theo quan điểm riêng.
-  * Nút "Xem gợi ý của Cú Thông Thái" để mở rộng đa chiều góc nhìn trước khi trả lời.
-  * Nút "Gửi cho Cú nhận xét" để gửi thẳng vào khung chat AI thảo luận cùng gia sư.
-
-### 3. Trợ Lý AI Đồng Hành 24/7 ("Gia Sư Cú Vàng Thông Thái")
-- Luôn túc trực bên cạnh màn hình (Ghim cố định trên Desktop, dạng Floating Drawer trên Mobile).
-- **Trí tuệ nhân tạo kép (Dual AI Engine):**
-  1. **Local Context-Aware AI Engine:** Kho tri thức chuyên sâu SGK lớp 6 được lập trình sẵn, phản hồi ngay lập tức (<1 giây), hoạt động 100% ngoại tuyến mà không cần kết nối mạng hay khóa API.
-  2. **Live Google Gemini API Integration:** Tùy chọn cấu hình khóa API Gemini để trải nghiệm sức mạnh mô hình ngôn ngữ lớn thời gian thực.
-- **Nút tương tác nhanh một chạm:**
-  * 💡 *Giảng lại bằng ví dụ vui*
-  * 🎵 *Làm thơ / Rap để nhớ bài*
-  * 🧠 *Đố vui môn này*
-  * 📝 *Cho bài tập tương tự kèm lời giải*
-  * 💪 *Động viên em học*
-
-### 4. Hệ Thống Gamification & Theo Dõi Tiến Trình
-- ⏱️ **Đồng hồ bấm giờ tập trung (Focus Timer):** Đo lường thời gian tự học tích cực, tự động tích lũy phút học.
-- ⭐ **Điểm thưởng ngôi sao (Star Points):** Cộng điểm khi làm đúng bài trắc nghiệm và hoàn thành thử thách.
-- 🏆 **Huy hiệu danh dự (Badges):** Tự động mở khóa các danh hiệu cao quý:
-  * *Học Giả Toán Học* 📐
-  * *Cây Bút Tương Lai* ✍️
-  * *Nhà Thám Hiểm Khoa Học* 🔬
-  * *Nhà Sử Địa Tài Ba* 🌍
-  * *Đại Sứ Tiếng Anh* 🗣️
-  * *Hiệp Sĩ Số 4.0* 💻
-  * *Trái Tim Nhân Ái* 💖
-  * *Chiến Binh Chăm Chỉ* ⚡
-- 💾 **Lưu trữ cục bộ (LocalStorage):** Tự động ghi nhớ tiến trình, điểm số, huy hiệu và cài đặt giao diện Dark/Light mode của học sinh.
+## 🌐 Trải Nghiệm Trực Tuyến Ngay
+👉 **Đường link trực tiếp:** [https://sinh11366.github.io/gia-su-ai-lop-6/](https://sinh11366.github.io/gia-su-ai-lop-6/)
 
 ---
 
-## 🛠️ CÔNG NGHỆ SỬ DỤNG
+## 🌟 Các Tính Năng Đột Phá
 
-| Công nghệ | Vai trò trong dự án |
-| :--- | :--- |
-| **HTML5 & Vanilla Web Standards** | Cấu trúc ngữ nghĩa chuẩn SEO, hỗ trợ khả năng truy cập (Accessibility). |
-| **Tailwind CSS (CDN)** | Thiết kế UI hiện đại, chuẩn Mobile-First Responsive, hỗ trợ Dark Mode tức thì. |
-| **Vue 3 (Global Build CDN)** | Reactive SPA State Management, hai chiều dữ liệu mượt mà không cần bundler phức tạp. |
-| **Font Awesome 6 & Google Fonts** | Bộ icon giáo dục sinh động kết hợp font chữ `Be Vietnam Pro` & `Quicksand`. |
-| **Canvas Confetti** | Hiệu ứng pháo hoa rực rỡ khi hoàn thành thử thách. |
-| **Web Audio API** | Bộ tổng hợp âm thanh tương tác trực tiếp qua sóng âm thanh máy tính, không phụ thuộc file mp3 ngoài. |
+### 1. 🗺️ Cây Lộ Trình Học Tập Toàn Năm Đầy Đủ 7 Môn Học (GDPT 2018)
+- Bao phủ toàn bộ Học kỳ 1 và Học kỳ 2 của 7 môn học:
+  - **Toán Học**: 9 Chương từ Tập hợp số tự nhiên, Tính chia hết, Số nguyên, Hình học trực quan đến Phân số, Số thập phân, Xác suất thực nghiệm.
+  - **Ngữ Văn**: Truyện đồng thoại, Thơ & Gia đình, Ký, Truyền thuyết & Cổ tích, Nghị luận xã hội, Trái Đất ngôi nhà chung.
+  - **Tiếng Anh (Global Success)**: Unit 1 đến Unit 12.
+  - **Khoa Học Tự Nhiên**: Các phép đo, Oxygen & Không khí, Tế bào & Đa dạng sinh học, Lực & Năng lượng.
+  - **Lịch Sử & Địa Lý**: Nguồn gốc loài người, Văn minh cổ đại, Thời đại Hùng Vương dựng nước Văn Lang - Âu Lạc (Phú Thọ), Bản đồ, Khí hậu.
+  - **Giáo Dục Công Dân**: Truyền thống gia đình, Yêu thương con người, Tôn trọng sự thật, Tự lập, Ứng phó nguy hiểm, Tiết kiệm.
+  - **Tin Học**: Máy tính & Cộng đồng, Mạng Internet, Đạo đức số & Bản quyền, Soạn thảo văn bản, Thuật toán giải quyết vấn đề.
+- **Nâng Cấp Lớp Linh Hoạt**: Dễ dàng chuyển đổi giữa **Lớp 6, Lớp 7, Lớp 8, Lớp 9** - toàn bộ cây lộ trình 7 môn tự động cập nhật tương ứng.
+
+### 2. ✨ Cơ Chế AI Sinh Đề Thời Gian Thực Vô Tận
+- Nút bấm **"✨ AI Sinh Chủ Đề / Bài Tập Mới Tối Ưu Theo Năng Lực"** tự động soạn bộ câu hỏi mới (trắc nghiệm, tự luận, bài toán thực tế Việt Nam / Phú Thọ).
+- Tích hợp **Google Gemini API** (hỗ trợ Gemini 1.5 Flash, 2.0 Flash) kèm **Bộ Máy Sinh Đề Thông Minh Dự Phòng** hoạt động 100% không lo rớt mạng.
+- Đạt $\ge 80\%$ tự động mở khóa chương tiếp theo, bắn pháo hoa ăn mừng Confetti, cộng thưởng EXP và gửi gắm thông điệp Thân - Tâm - Trí.
+
+### 3. 📓 Sổ Tay AI & Hồ Sơ Tư Duy (Learning Memory)
+- **Hồ Sơ Tư Duy AI**: Phân tích 4 chiều (Tư duy Logic, Ngôn ngữ, Thực nghiệm, Phản biện) kèm nhật ký quan sát sư phạm theo thời gian thực.
+- **Sổ Tay Giọng Nói**: Học sinh có thể đọc ghi chú qua Micro bằng Web Speech API.
+- **AI Tóm Tắt & Thẻ Nhớ 3D (Flashcard)**: Tự động chuyển đổi ghi chú thành các thẻ nhớ 3D lật mặt để rèn luyện phản xạ.
+
+### 4. 🤖 Gia Sư Socratic AI & Đa Phương Tiện (Loa + Micro)
+- **Loa Text-to-Speech (TTS)**: Đọc to câu hỏi, gợi ý, phản hồi bằng tiếng Việt (`vi-VN`).
+- **Micro Speech-to-Text (STT)**: Cho phép học sinh đọc to câu trả lời hoặc tranh biện trực tiếp với AI.
+- **Gợi ý 3 bước Socratic**: Khơi gợi $\rightarrow$ Bước then chốt $\rightarrow$ Lời giải chi tiết & Đúc kết phương pháp.
+- **Câu Hỏi Mở Rèn Tư Duy Phản Biện**: Rèn luyện năng lực phản biện qua các tình huống thực tế đời sống.
+
+### 5. 🩹 Phòng Kiểm Tra & Lấp Lỗ Hổng Cuối Tuần
+- Tự động lưu trữ mọi câu hỏi làm sai vào **Kho Lỗ Hổng Kiến Thức**.
+- Chế độ **Thử Thách Cuối Tuần** giúp học sinh ôn tập lại đến khi hoàn toàn làm chủ kiến thức.
 
 ---
 
-## 🚀 HƯỚNG DẪN KHỞI CHẠY ỨNG DỤNG
-
-Ứng dụng được đóng gói theo tiêu chuẩn Single Page Application độc lập, **không cần cài đặt Node.js hay chạy lệnh npm install**.
-
-### Cách 1: Chạy trực tiếp trên trình duyệt
-1. Nhấp đúp chuột vào tệp `index.html`.
-2. Trình duyệt (Chrome, Edge, Firefox, Safari) sẽ mở ứng dụng ngay lập tức với đầy đủ tính năng.
-
-### Cách 2: Khởi chạy qua Local Web Server (Tùy chọn)
-Nếu bạn muốn chạy qua HTTP Server:
-```bash
-# Sử dụng Python 3 có sẵn
-python -m http.server 8080
-```
-Sau đó truy cập: `http://localhost:8080` trên trình duyệt.
+## 🛠️ Công Nghệ Phát Triển
+- **Frontend**: Single-file HTML5, Tailwind CSS, FontAwesome 6, KaTeX (kí hiệu toán học), Canvas Confetti.
+- **AI & Multimodal**: Google Gemini API, Web Speech API (SpeechRecognition & SpeechSynthesis).
+- **Lưu trữ**: LocalStorage tự động lưu tiến trình học tập trên thiết bị.
+- **Triển khai**: GitHub Pages.
 
 ---
-
-## 🎯 CAM KẾT CHẤT LƯỢNG SẢN PHẨM
-- 100% Tiếng Việt chuẩn mực, tôn trọng học sinh.
-- Không có lỗi console, không để mã nguồn dang dở hay chú thích TODO.
-- Hoạt động mượt mà, phản hồi lập tức trên cả máy tính để bàn (Desktop), máy tính bảng (Tablet) và điện thoại di động (Smartphone).
+*Phát triển với tâm huyết nâng tầm giáo dục số và tối ưu hóa năng lực tư duy học sinh Việt Nam.*
